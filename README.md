@@ -2,4 +2,4 @@ magento
 =======
 
 test
-test vanuit eclipse
+test vanuit eclipse2
